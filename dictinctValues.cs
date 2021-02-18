@@ -12,7 +12,7 @@
         }
 
 	/*
-	   via AddRows method i can add row but i should add column(s) in tblForm unit i can add
+	   via AddRows method i can add row but i should add column(s) in tblForm until i can add
 	   row(s) in tblForm so i check if i had no column add one and it's name is form
 	>> notice that i can't remove this check becuase if i click button to add row it will add
 	   column then add row and if you click this button again it will raise error becuase
